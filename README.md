@@ -1,6 +1,8 @@
 # Stairs and slabs of wool
 
 Stairs and slabs of wool
+<br>
+Stairs and slabs of wool was created with code from [wool](https://github.com/luanti-org/minetest_game/tree/master/mods/wool)
 
 ## Installation
 

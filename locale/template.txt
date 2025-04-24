@@ -1,0 +1,65 @@
+# textdomain: stairs_and_slabs_of_wool
+
+Red Wool Slab=
+Blue Wool Slab=
+Cyan Wool Slab=
+Grey Wool Slab=
+Pink Wool Slab=
+Black Wool Slab=
+Brown Wool Slab=
+Green Wool Slab=
+White Wool Slab=
+Orange Wool Slab=
+Violet Wool Slab=
+Yellow Wool Slab=
+Magenta Wool Slab=
+Dark Grey Wool Slab=
+Dark Green Wool Slab=
+
+Red Wool Stair=
+Blue Wool Stair=
+Cyan Wool Stair=
+Grey Wool Stair=
+Pink Wool Stair=
+Black Wool Stair=
+Brown Wool Stair=
+Green Wool Stair=
+White Wool Stair=
+Orange Wool Stair=
+Violet Wool Stair=
+Yellow Wool Stair=
+Magenta Wool Stair=
+Dark Grey Wool Stair=
+Dark Green Wool Stair=
+
+Inner Red Wool Stair=
+Inner Blue Wool Stair=
+Inner Cyan Wool Stair=
+Inner Grey Wool Stair=
+Inner Pink Wool Stair=
+Inner Black Wool Stair=
+Inner Brown Wool Stair=
+Inner Green Wool Stair=
+Inner White Wool Stair=
+Inner Orange Wool Stair=
+Inner Violet Wool Stair=
+Inner Yellow Wool Stair=
+Inner Magenta Wool Stair=
+Inner Dark Grey Wool Stair=
+Inner Dark Green Wool Stair=
+
+Outer Red Wool Stair=
+Outer Blue Wool Stair=
+Outer Cyan Wool Stair=
+Outer Grey Wool Stair=
+Outer Pink Wool Stair=
+Outer Black Wool Stair=
+Outer Brown Wool Stair=
+Outer Green Wool Stair=
+Outer White Wool Stair=
+Outer Orange Wool Stair=
+Outer Violet Wool Stair=
+Outer Yellow Wool Stair=
+Outer Magenta Wool Stair=
+Outer Dark Grey Wool Stair=
+Outer Dark Green Wool Stair=

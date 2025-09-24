@@ -24,3 +24,10 @@ for i = 1, #dyes do
 	)
 
 end
+
+if minetest.get_modpath("xdecor") then
+	for i = 1, #dyes do
+		local name, desc = unpack(dyes[i])
+		xdecor.register_cut("wool:" .. name)
+	end
+end
